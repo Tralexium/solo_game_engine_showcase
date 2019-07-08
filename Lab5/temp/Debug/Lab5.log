@@ -1,0 +1,22 @@
+﻿  DuckGame.cpp
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\include\scenecomponent.h(34): warning C4018: '>': signed/unsigned mismatch
+  GLFW_EngineCore.cpp
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\include\scenecomponent.h(34): warning C4018: '>': signed/unsigned mismatch
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\src\glfw_enginecore.cpp(233): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  Model.cpp
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\src\model.cpp(33): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\src\model.cpp(40): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\src\model.cpp(77): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\src\model.cpp(80): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\src\model.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  PlayerObject.cpp
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\src\playerobject.cpp(9): warning C4305: '=': truncation from 'double' to 'float'
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\src\playerobject.cpp(58): warning C4305: '=': truncation from 'double' to 'float'
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\src\playerobject.cpp(59): warning C4305: '=': truncation from 'double' to 'float'
+  Scene.cpp
+d:\visual studio projects\p16212626_advanced_shaders\advanced_shaders_p16212626\coursework_p16212626\lab5\src\scene.cpp(177): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  glad.c
+  stb_image.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Lab5.vcxproj -> D:\Visual Studio Projects\P16212626_Advanced_Shaders\Advanced_Shaders_P16212626\Coursework_P16212626\bin\Debug\Lab5.exe

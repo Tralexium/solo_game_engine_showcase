@@ -1,0 +1,109 @@
+{
+  "GameObjects": [
+    {
+      "name": "duck", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -2.0, 
+        0.5, 
+        0.0
+      ], 
+      "type": "PlayerObject"
+    },
+	{
+      "name": "house", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "tree_B", 
+      "orientation": [
+        1.3228756555322954, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -1.77463897297298, 
+        1.3206439583918366, 
+        2.0480452273613494
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "tree_B", 
+      "orientation": [
+        0.9902514333845881, 
+        0.0, 
+        0.6196848957592255, 
+        0.0
+      ], 
+      "position": [
+        2.1285838804881303, 
+        0.4788721290629292, 
+        6.319353617029774
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "tree_B", 
+      "orientation": [
+        0.9902514333845881, 
+        0.0, 
+        0.6196848957592255, 
+        0.0
+      ], 
+      "position": [
+        -6.193212257361124, 
+        0.4788721290629292, 
+        8.074660504791641
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "tree_B", 
+      "orientation": [
+        1.3228756555322954, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -9.823647986561543, 
+        1.3206439583918366, 
+        -2.3199190677211283
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "floor", 
+      "orientation": [
+        0.9060920943221303, 
+        0.0, 
+        0.8361558914951331, 
+        0.0
+      ], 
+      "position": [
+        -9.126149885702858, 
+        0.6936491145468517, 
+        -10.460716923580332
+      ], 
+      "type": "StaticEnvironmentObject"
+    }
+  ]
+}

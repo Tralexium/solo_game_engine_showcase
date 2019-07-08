@@ -1,0 +1,5 @@
+{
+  "GameObjects": [
+      {"name": "pCube1", "position": [0,0,-5], "scale": [2, 0.5, 1]}
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "GameObjects": [
+    {
+      "name": "tree_B", 
+	  "shader": "defaultShader",
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -0.8657064838958426, 
+        0.0, 
+        1.751673116345927
+      ], 
+      "type": "SizedEnvironmentObject"
+    },
+	{
+      "name": "dragon_v2", 
+	  "shader": "defaultShader",
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        0.0, 
+        -15.0
+      ], 
+      "type": "RotatingEnvironmentObject"
+    }, 
+    {
+      "name": "bush_B", 
+	  "shader": "defaultShader",
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -3.2195197383025524, 
+        0.0, 
+        -3.7845592211778287
+      ], 
+      "type": "WigglyEnvironmentObject"
+    }, 
+    {
+      "name": "tree_B", 
+	  "shader": "defaultShader",
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -0.8657064838958426, 
+        0.0, 
+        1.751673116345927
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "house", 
+	  "shader": "defaultShader",
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -8.862660243091042, 
+        0.0, 
+        0.0
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "bush_B", 
+	  "shader": "defaultShader",
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.22611727260226822, 
+        0.0, 
+        5.5002790890964794
+      ], 
+      "type": "WigglyEnvironmentObject"
+    }, 
+    {
+      "name": "tree_B", 
+	  "shader": "defaultShader",
+      "orientation": [
+        0.8117572044591301, 
+        0.0, 
+        0.5839950693359474, 
+        0.0
+      ], 
+      "position": [
+        -4.860331899039837, 
+        0.0, 
+        5.428728876590503
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "tree_B", 
+	  "shader": "defaultShader",
+      "orientation": [
+        0.5793628765725068, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -6.975613319984028, 
+        0.0, 
+        -8.321767545041356
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "floor", 
+	  "shader": "normalShader",
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "duck", 
+	  "shader": "defaultShader",
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        -0.1, 
+        0.0
+      ], 
+      "type": "PlayerObject"
+    }
+  ]
+}

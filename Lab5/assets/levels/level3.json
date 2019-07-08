@@ -1,0 +1,199 @@
+{
+  "GameObjects": [
+    {
+      "name": "peebles_B", 
+      "orientation": [
+        0.812179365932623, 
+        0.0, 
+        -0.5834078141002934, 
+        0.0
+      ], 
+      "position": [
+        -16.81501959112166, 
+        0.0, 
+        -15.368730869724267
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "duck", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "type": "PlayerObject"
+    }, 
+    {
+      "name": "rock_B", 
+      "orientation": [
+        0.9848253285978588, 
+        0.0, 
+        0.17354847205354348, 
+        0.0
+      ], 
+      "position": [
+        -14.752450523400562, 
+        0.0, 
+        15.580457268340282
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "peebles_B", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        0.0, 
+        -9.196512681062105
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "rock_B", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        -7.29395707699003, 
+        0.0, 
+        0.0
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "rock_B", 
+      "orientation": [
+        0.9999491059706199, 
+        0.0, 
+        -0.010088878458873088, 
+        0.0
+      ], 
+      "position": [
+        3.9023237928929735, 
+        0.0, 
+        24.510303164446842
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "rock_B", 
+      "orientation": [
+        0.8967477638050246, 
+        0.0, 
+        0.4425420297674423, 
+        0.0
+      ], 
+      "position": [
+        10.8218321757026, 
+        0.0, 
+        -11.359726994883484
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "peebles_B", 
+      "orientation": [
+        0.38807707655678714, 
+        -0.0, 
+        0.9216269216180362, 
+        -0.0
+      ], 
+      "position": [
+        5.021232952913465, 
+        0.0, 
+        -22.09254185071557
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "peebles_B", 
+      "orientation": [
+        0.8427617827286125, 
+        -0.0, 
+        0.5382867057359777, 
+        -0.0
+      ], 
+      "position": [
+        14.645081093643789, 
+        0.0, 
+        5.365334563471686
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "peebles_B", 
+      "orientation": [
+        0.6651506049482104, 
+        -0.0, 
+        0.7467092290423559, 
+        -0.0
+      ], 
+      "position": [
+        -4.341429771055331, 
+        0.0, 
+        12.715417042972579
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "peebles_B", 
+      "orientation": [
+        0.10174182261514124, 
+        0.0, 
+        -0.9948108370594674, 
+        0.0
+      ], 
+      "position": [
+        -9.719773915407774, 
+        0.0, 
+        -2.9551963624363644
+      ], 
+      "type": "SizedEnvironmentObject"
+    }, 
+    {
+      "name": "planet", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        15.107498698660496, 
+        7.0842540415221205, 
+        8.742223827567523
+      ], 
+      "type": "RotatingEnvironmentObject"
+    }, 
+    {
+      "name": "floorSpace", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "position": [
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "type": "StaticEnvironmentObject"
+    }
+  ]
+}
